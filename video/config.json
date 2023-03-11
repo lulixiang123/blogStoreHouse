@@ -1,0 +1,24 @@
+{
+   "video": [
+      {
+         "videoId":0,
+         "videoUrl":"https://www.bilibili.com/video/BV1G54y1o7RP/?spm_id_from=333.337.search-card.all.click",
+         "imgUrl":"https://i0.hdslb.com/bfs/archive/aa3a8526f699568bb4942daadee90069f415b5cf.png@672w_378h_1c_!web-search-common-cover.avif"
+      },
+      {
+         "videoId":1,
+         "videoUrl":"https://www.bilibili.com/video/BV1MF411T7rn/?spm_id_from=333.337.search-card.all.click",
+         "imgUrl":"https://i2.hdslb.com/bfs/archive/61fa311e418ee7e7aee1157f38b9a897a41ef75f.png@672w_378h_1c_!web-search-common-cover.avif"
+      },
+      {
+         "videoId":2,
+         "videoUrl":"https://www.bilibili.com/video/BV12Z4y1h7YH/?spm_id_from=333.337.search-card.all.click",
+         "imgUrl":"https://i1.hdslb.com/bfs/archive/b067146ae1405e99fe5ea9c05ac28dad3455217b.png@672w_378h_1c_!web-search-common-cover.avif"
+      },
+      {
+         "videoId": 3,
+         "videoUrl": "https://www.bilibili.com/video/BV1FP4y1M7j2/?spm_id_from=333.337.search-card.all.click",
+         "imgUrl": "https://i2.hdslb.com/bfs/archive/09ade30cbe8ccf55081f8e528b749befe220c21f.png@672w_378h_1c_!web-search-common-cover.avif"
+      }
+   ]
+}
