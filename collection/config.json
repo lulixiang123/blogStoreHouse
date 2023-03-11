@@ -1,0 +1,40 @@
+{
+  "collection": [
+    {
+      "collectionId":0,
+      "collectionTitle":"webpack深入",
+      "collectionUrl":"https://juejin.cn/post/7031546400034947108",
+      "collectionType": 0
+    },
+    {
+      "collectionId":1,
+      "collectionTitle":"vite深入浅出",
+      "collectionUrl":"https://juejin.cn/post/7040750959764439048#comment",
+      "collectionType": 0
+    },
+    {
+      "collectionId":2,
+      "collectionTitle":"js实现纯前端转excel",
+      "collectionUrl":"https://blog.csdn.net/hhzzcc_/article/details/80419396/",
+      "collectionType": 2
+    },
+    {
+      "collectionId":3,
+      "collectionTitle":"手把手教你搭建个人图床搭建",
+      "collectionUrl":"https://blog.csdn.net/weixin_40017641/article/details/122812186",
+      "collectionType": 2
+    },
+    {
+      "collectionId":4,
+      "collectionTitle":"next.js 13 升级指南",
+      "collectionUrl":"https://www.bilibili.com/video/BV15P4y1m7LL/?spm_id_from=333.788&vd_source=1d4bc8996e0d015df68a7a6b9c6b6c37",
+      "collectionType": 1
+    },
+    {
+      "collectionId":5,
+      "collectionTitle":"reactNative 进阶教程",
+      "collectionUrl":"https://www.bilibili.com/video/BV195411E7pf/?spm_id_from=333.337.search-card.all.click&vd_source=1d4bc8996e0d015df68a7a6b9c6b6c37",
+      "collectionType": 1
+    }
+  ]
+}
