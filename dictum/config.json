@@ -1,0 +1,19 @@
+{
+  "dictum": [
+    {
+      "dictumId":0,
+      "dictumContent":"世上最歹毒的赞美，就是把穷人的艰辛和苦难，当励志正能量吹嘘",
+      "dictumAuthor":"王朔"
+    },
+    {
+      "dictumId":1,
+      "dictumContent":"多少事，从来急；天地转，光阴迫。一万年太久，只争朝夕",
+      "dictumAuthor":"毛泽东"
+    },
+    {
+      "dictumId":2,
+      "dictumContent":"资本来到世间，从头到脚，都流着血和肮脏的东西",
+      "dictumAuthor":"卡尔・马克思"
+    }
+  ]
+}
